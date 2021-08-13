@@ -13,7 +13,7 @@ E-Commerce site for electronic gadgets with Esewa Integration
     - Charts are shown on the basis of sales
     - Admin can manage the website 
     - Admin can add remove the products
-    - Amdin can add product based on category 
+    - Admin can add product based on category 
   - Payment Integration
     - Esewa wallet is added 
  
